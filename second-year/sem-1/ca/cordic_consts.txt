@@ -1,0 +1,18 @@
+//rom_file "cordic_consts.txt"
+//CORDIC arctan constants ROM: 4-bit wide address; 16-bit wide data
+3244
+1dac
+0fae
+07f5
+03ff
+0200
+0100
+0080
+0040
+0020
+0010
+0008
+0004
+0002
+0001
+0000
